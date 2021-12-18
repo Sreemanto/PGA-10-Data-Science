@@ -1,0 +1,473 @@
+,id,Year,Name,Duration,Genre,Rating,Votes,Director,Actor 1,Actor 2,Actor 3
+1474,0,2021,B.A. Pass 3,136 min,"Drama, Romance",8.3,1877,Narendra Singh,Sunny Sachdeva,Armaan Sandhu,Ankita Sahu
+756,1,2021,Ajeeb Daastaans,142 min,"Drama, Romance",6.7,4133,Neeraj Ghaywan,Kayoze Irani,Shashank Khaitan,Raj Mehta
+14000,2,2021,The Big Bull,153 min,"Biography, Crime, Drama",6.1,11536,Kookie Gulati,Abhishek Bachchan,Nikita Dutta,Ileana D'Cruz
+5649,3,2021,Hello Charlie,102 min,Comedy,5.6,3167,Pankaj Saraswat,Aadar Jain,Jackie Shroff,Shloka Pandit
+14292,4,2021,The White Tiger,125 min,"Crime, Drama",7.1,49877,Ramin Bahrani,Adarsh Gourav,Rajkummar Rao,Priyanka Chopra Jonas
+944,5,2021,Ammaa Ki Boli,117 min,"Comedy, Drama",8.1,871,Narayan Chauhan,Sanjay Mishra,Hrishitaa Bhatt,Master Aniket
+15116,6,2021,Writing with Fire,92 min,Documentary,8.1,106,Sushmit Ghosh,Rintu Thomas,Meera Devi,Shyamkali Devi
+11843,7,2021,Refl3ct,65 min,Sci-Fi,9.3,467,Nikhil Mahar,Vijay Mahar,Vijay Mahar,Nikhil Mahar
+6958,8,2021,Kaagaz,109 min,"Biography, Comedy, Drama",7.6,6738,Satish Kaushik,Pankaj Tripathi,Monal Gajjar,Satish Kaushik
+11418,9,2021,Raat Baaki Hai,100 min,"Drama, Thriller",5.2,332,Avinash Das,Paoli Dam,Anup Soni,Dipannita Sharma
+12354,10,2021,Sandeep Aur Pinky Faraar,125 min,"Comedy, Crime, Drama",6.3,6489,Dibakar Banerjee,Parineeti Chopra,Arjun Kapoor,Jaideep Ahlawat
+2931,11,2021,Cheer Haran,98 min,Documentary,9.1,123,Kuldeep Ruhil,Kuldeep Ruhil,,
+13303,12,2021,Skater Girl,107 min,"Drama, Family, Sport",6.6,1154,Manjari Makijany,Amy Maghera,Waheeda Rehman,Rachel Saanchita Gupta
+9906,13,2021,Nail Polish,128 min,Drama,7.4,3737,Bugs Bhargava Krishna,Arjun Rampal,Manav Kaul,Anand Tiwari
+3224,14,2021,Consequence Karma,92 min,"Drama, Thriller",9.0,223,Shadab Ahmad,Sidharth Bhardwaj,Monis Khan,Pooja Gupta
+14441,15,2021,Tribhanga,95 min,"Drama, Family",6.1,2508,Renuka Shahane,Kajol,Tanvi Azmi,Mithila Palkar
+13211,16,2021,Silence: Can You Hear It,136 min,"Crime, Thriller",6.6,3324,Aban Bharucha Deohans,Sahil Vaid,Manoj Bajpayee,Hitha Chandrashekar
+14898,17,2021,Viraat,150 min,Crime,8.9,294,Narendra Singh,Kritika Sachdeva,Ravi Jhanghu,Lokesh Tilakdhari
+9652,18,2021,Mumbai Saga,135 min,"Action, Crime",6.1,7295,Sanjay Gupta,John Abraham,Emraan Hashmi,Mahesh Manjrekar
+9510,19,2021,Mosagallu,85 min,Drama,7.9,1059,Jeffrey Gee Chin,Vishnu Manchu,Kajal Aggarwal,Sunil Shetty
+6952,20,2021,Kaadan,170 min,"Action, Drama, Fantasy",9.1,2219,Prabu Solomon,Raghu Babu,Rana Daggubati,Abudhar Al Hassan
+6518,21,2021,Jamun,92 min,"Drama, Family",7.5,409,Gaurav Mehra,Raghuvir Yadav,Shweta Basu Prasad,Sunny Hinduja
+14201,22,2021,The Power,154 min,"Action, Crime, Drama",5.7,1544,Mahesh Manjrekar,Vidyut Jammwal,Shruti Haasan,Salil Ankola
+4947,23,2021,Gaurav Gupta: Market Down Hai,50 min,Comedy,7.5,226,Neville Shah,Gaurav Gupta,,
+10448,24,2021,Pagglait,114 min,"Comedy, Drama",6.9,7043,Umesh Bist,Sanya Malhotra,Sayani Gupta,Sheeba Chaddha
+12673,25,2021,Secrets of Sinauli,56 min,"Documentary, History",9.3,1373,Raghav Jairath,Manoj Bajpayee,R.S. Bhist,K.N. Dixit
+12734,26,2021,Shaadisthan,94 min,"Drama, Musical",6.0,191,Raj Singh Chaudhary,Nivedita Bhattacharya,Sanjay Dadhich,Kirti Kulhari
+4734,27,2021,Flight,116 min,"Action, Thriller",8.3,359,Suraj Joshi,Vishal Arya,Babita Ashiwal,Shibani Bedi
+13976,28,2020,Thappad,142 min,Drama,6.8,15063,Anubhav Sinha,Taapsee Pannu,Pavail Gulati,Kumud Mishra
+12704,29,2020,Serious Men,114 min,"Comedy, Drama",6.8,6382,Sudhir Mishra,Sachin Krishn,Nawazuddin Siddiqui,Nassar
+5238,30,2020,Guilty,119 min,"Drama, Thriller",5.4,3919,Ruchi Narain,Kiara Advani,Taher Shabbir,Akansha Ranjan Kapoor
+11415,31,2020,Raat Akeli Hai,149 min,"Crime, Drama, Mystery",7.3,15769,Honey Trehan,Nawazuddin Siddiqui,Radhika Apte,Aditya Srivastav
+4117,32,2020,Doordarshan,119 min,"Comedy, Drama",6.2,1336,Gagan Puri,Manu Rishi Chadha,Mahie Gill,Dolly Ahluwalia
+3755,33,2020,Dhira,117 min,Animation,6.5,388,Arun Kumar Rapolu,Vivek Oberoi,Vijay Sethupathi,Sai Srinivas Bellamkonda
+3206,34,2020,Comedy Couple,117 min,"Comedy, Romance",7.7,1662,Nachiket Samant,Saqib Saleem,Shweta Basu Prasad,Pooja Bedi
+11667,35,2020,Ram Singh Charlie,104 min,Drama,8.0,1272,Nitin Kakkar,Kumud Mishra,Divya Dutta,Salima Raza
+2963,36,2020,Chhalaang,136 min,"Comedy, Drama",6.8,15830,Hansal Mehta,Rajkummar Rao,Nushrat Bharucha,Mohd. Zeeshan Ayyub
+9062,37,2020,Mee Raqsam,80 min,Drama,6.7,384,Baba Azmi,Juhaina Ahsan,Shivangi Gautam,Danish Husain
+2593,38,2020,Bulbbul,94 min,"Drama, Horror, Mystery",6.6,10143,Anvita Dutt,Tripti Dimri,Avinash Tiwary,Rahul Bose
+14419,39,2020,Torbaaz,133 min,"Action, Drama, Sport",6.8,5289,Girish Malik,Sanjay Dutt,Nargis Fakhri,Rahul Dev
+6566,40,2020,Jawaani Jaaneman,119 min,"Comedy, Drama",6.6,6371,Nitin Kakkar,Saif Ali Khan,Alaya F,Tabu
+3170,41,2020,Class of '83,98 min,"Action, Crime, Drama",5.8,5084,Atul Sabharwal,Bobby Deol,Anup Soni,Joy Sengupta
+13173,42,2020,Shubh Mangal Zyada Saavdhan,117 min,"Comedy, Romance",5.8,8208,Hitesh Kewalya,Ayushmann Khurrana,Jitendra Kumar,Gajraj Rao
+1058,43,2020,Angrezi Medium,145 min,"Comedy, Drama",7.3,11700,Homi Adajania,Irrfan Khan,Radhika Madan,Kareena Kapoor
+3081,44,2020,Choked,114 min,Drama,5.8,4826,Anurag Kashyap,Saiyami Kher,Roshan Mathew,Amruta Subhash
+15213,45,2020,Yeh Ballet,117 min,Drama,7.6,1126,Sooni Taraporevala,Julian Sands,Jim Sarbh,Sarah Jane Dias
+5404,46,2020,Halahal,97 min,"Crime, Drama, Mystery",7.1,1441,Randeep Jha,Barun Sobti,Sachin Khedekar,Manu Rishi Chadha
+10761,47,2020,Pepper Chicken,,Thriller,6.8,281,Ratan Sil Sarma,Dipannita Sharma,Boloram Das,Monuj Borkotoky
+3829,48,2020,Dil Bechara,101 min,"Comedy, Drama, Romance",6.6,117377,Mukesh Chhabra,Sushant Singh Rajput,Sanjana Sanghi,Sahil Vaid
+9742,49,2020,My Client's Wife,106 min,"Mystery, Thriller",6.2,672,Prabhakar Meena Bhaskar Pant,Sharib Hashmi,Pushkar Bhaskar Pant,Anjali Patil
+149,50,2020,A Game Called Relationship,109 min,"Comedy, Romance",6.3,181,Vivek Sharma,Mandy Takhar,Vivek Sharma,Sumit Suri
+5078,51,2020,Ghoomketu,108 min,Comedy,5.5,2708,Pushpendra Nath Misra,Nawazuddin Siddiqui,Ragini Khanna,Richa Chadha
+9329,52,2020,Milestone,98 min,Drama,6.6,411,Ivan Ayr,Mohinder Gujral,Pavitra Mattoo,Lakshvir Saran
+15148,53,2020,Yaara,130 min,"Action, Crime, Drama",6.3,3955,Tigmanshu Dhulia,Vidyut Jammwal,Amit Sadh,Mohommed Ali Shah
+3431,54,2020,Darbaan,145 min,Drama,7.5,727,Bipin Nadkarni,Sharib Hashmi,Sharad Kelkar,Mukesh Ramani
+2164,55,2020,Bhangra Paa Le,131 min,"Comedy, Drama, Music",6.0,287,Sneha Taurani,Sunny Kaushal,Rukshar Dhillon,Shriya Pilgaonkar
+5512,56,2020,Harami,100 min,"Crime, Drama, Romance",7.7,957,Shyam Madiraju,Emraan Hashmi,Rizwan Shaikh,Dhanshree Patil
+1725,57,2020,Bahut Hua Sammaan,125 min,"Comedy, Crime, Drama",7.3,3036,Ashish R. Shukla,Sanjay Mishra,Ram Kapoor,Raghav Juyal
+10520,58,2020,Panga,131 min,"Drama, Sport",6.8,5455,Ashwiny Iyer Tiwari,Kangana Ranaut,Jassie Gill,Richa Chadha
+8271,59,2020,London Confidental,77 min,"Crime, Drama, Thriller",6.4,1653,Kanwal Sethi,Mouni Roy,Purab Kohli,Kiren Jogi
+13384,60,2020,Soorarai Pottru,153 min,Drama,9.1,83029,Sudha Kongara,Suriya,Madhavan,Paresh Rawal
+10595,61,2020,Pareeksha,120 min,Drama,8.1,2921,Prakash Jha,Adil Hussain,Priyanka Bose,Shourya Deep
+5488,62,2020,Happy Hardy and Heer,123 min,"Comedy, Romance",5.9,580,Raka,Ashwin Dhar,Karen Elliot,Trupti Khamkar
+13764,63,2020,Tanhaji: The Unsung Warrior,135 min,"Action, Biography, Drama",7.6,22344,Om Raut,Ajay Devgn,Saif Ali Khan,Sharad Kelkar
+2289,64,2020,Bhoot: Part One - The Haunted Ship,114 min,"Horror, Mystery, Thriller",5.4,4236,Bhanu Pratap Singh,Vicky Kaushal,Ashutosh Rana,Meher Vij
+862,65,2020,All Ladies Do It,97 min,Thriller,7.9,384,Akhil Gautam,Akhil Gautam,Ajay Bafna,Vikas Sachdeva
+5102,66,2020,Ginny Weds Sunny,125 min,"Comedy, Drama, Romance",5.7,3872,Puneet Khanna,Yami Gautam,Vikrant Massey,Ayesha Raza
+2790,67,2020,Chaman Bahaar,111 min,"Comedy, Drama",7.0,5866,Apurva Dhar Badgaiyann,Jitendra Kumar,Ritika Badiani,Bhuvan Arora
+13180,68,2020,Shukranu,90 min,Drama,6.4,678,Bishnu Dev Halder,Divyendu Sharma,Shweta Basu Prasad,Sheetal Thakur
+3227,69,2020,Cookie,104 min,Horror,6.2,191,Lalit Marathe,Nabeel Ahmed,Amit Ashar,Bhavin Bhanushali
+3240,70,2020,Court Martial,120 min,Drama,6.8,179,Sourabh Shrivastava,Karwarkar Bhavika,Saksham Dayma,Rajeev Khandelwal
+8381,71,2020,Ludo,149 min,"Action, Comedy, Crime",7.6,32403,Anurag Basu,Pankaj Tripathi,Abhishek Bachchan,Rajkummar Rao
+8280,72,2020,Lootcase,132 min,"Comedy, Crime",7.6,15188,Rajesh Krishnan,Kunal Khemu,Rasika Dugal,Vijay Raaz
+770,73,2020,AK vs AK,108 min,"Action, Comedy, Crime",6.9,12429,Vikramaditya Motwane,Anil Kapoor,Anurag Kashyap,Sonam Kapoor
+1352,74,2020,Atkan Chatkan,126 min,"Drama, Musical",8.2,1763,Shiv Hare,Lydian Nadhaswaram,Sachin Chaudhary,Tamanna Dipak
+8752,75,2020,Malang,135 min,"Action, Crime, Drama",6.5,8972,Mohit Suri,Aditya Roy Kapoor,Anil Kapoor,Disha Patani
+15162,76,2020,Yahan Sabhi Gyani Hain,115 min,Comedy,5.1,244,Anant Tripathi,Atul Srivastava,Neeraj Sood,Apoorva Arora
+14700,77,2020,V,140 min,"Action, Crime, Thriller",6.9,6758,Mohana Krishna Indraganti,Nani,Sudheer Babu Posani,Nivetha Thomas
+12851,78,2020,Shakuntala Devi,127 min,"Biography, Drama",6.1,8456,Anu Menon,Vidya Balan,Adi Chugh,Sanya Malhotra
+7661,79,2020,Khuda Haafiz,133 min,"Action, Adventure, Drama",7.4,16142,Faruk Kabir,Vidyut Jammwal,Shivaleeka Oberoi,Annu Kapoor
+1788,80,2020,Bamfaad,102 min,Romance,7.2,1533,Ranjan Chandel,Aditya Rawal,Shalini Pandey,Vijay Varma
+3434,81,2020,Darbar,159 min,"Action, Thriller",6.1,5175,A.R. Murugadoss,Rajinikanth,Nayanthara,Nivetha Thomas
+87,82,2020,376 D,128 min,"Crime, Thriller",5.7,252,Gunveen Kaur,Robin Sikarwar,Vivek Kumar,Deeksha Joshi
+14634,83,2020,Unpaused,113 min,"Drama, Romance",7.0,2057,Nikkhil Advani,Avinash Arun,Tannishtha Chatterjee,Krishna D.K.
+5311,84,2020,Gunjan Saxena: The Kargil Girl,112 min,"Action, Biography, Drama",5.3,25005,Sharan Sharma,Janhvi Kapoor,Pankaj Tripathi,Angad Bedi
+12632,85,2020,Sayonee,111 min,"Action, Musical, Romance",7.6,566,Nitin Gupta,Abhay Singhal,Tanmay Ssingh,Musskan Sethi
+13708,86,2020,Taish,143 min,"Action, Thriller",7.5,3703,Bejoy Nambiar,Jim Sarbh,Harshvardhan Rane,Pulkit Samrat
+3059,87,2020,Chintu Ka Birthday,80 min,"Drama, War",7.8,4063,Devanshu Singh,Satyanshu Singh,Vinay Pathak,Tillotama Shome
+8928,88,2020,Maska,111 min,"Comedy, Drama, Romance",5.8,1317,Neeraj Udhwani,Prit Kamani,Manisha Koirala,Shirley Setia
+5250,89,2020,Gulabo Sitabo,124 min,"Comedy, Drama",6.3,11364,Shoojit Sircar,Amitabh Bachchan,Ayushmann Khurrana,Vijay Raaz
+2968,90,2020,Chhapaak,120 min,"Biography, Drama",5.1,25070,Meghna Gulzar,Deepika Padukone,Vikrant Massey,Madhurjeet Sarghi
+13612,91,2020,Suraj Pe Mangal Bhari,139 min,Comedy,5.9,3011,Abhishek Sharma,Manoj Bajpayee,Fatima Sana Shaikh,Vijay Raaz
+15035,92,2020,Welcome Home,126 min,"Crime, Drama, Horror",7.5,2413,Pushkar Mahabal,Kashmira Irani,Swarda Thigle,Shashi Bhushan
+62,93,2019,22 Yards,126 min,Sport,6.1,361,Mitali Ghoshal,Barun Sobti,Amartya Ray,Rajit Kapoor
+10527,94,2019,Panipat,165 min,"Action, Drama, History",5.3,4426,Ashutosh Gowariker,Arjun Kapoor,Sanjay Dutt,Kriti Sanon
+3520,95,2019,De De Pyaar De,135 min,"Comedy, Drama, Romance",6.6,7329,Akiv Ali,Ajay Devgn,Tabu,Rakul Preet Singh
+1916,96,2019,Batla House,146 min,"Action, Crime, Drama",7.2,10092,Nikkhil Advani,John Abraham,Nora Fatehi,Mrunal Thakur
+10839,97,2019,Photograph,110 min,"Drama, Romance",6.9,4505,Ritesh Batra,Nawazuddin Siddiqui,Sanya Malhotra,Sachin Khedekar
+716,98,2019,Ahaan,81 min,"Comedy, Drama",7.2,213,Nikhil Pherwani,Arif Zakaria,Niharika Singh,Abuli Mamaji
+2969,99,2019,Chhappad Phaad Ke,90 min,Drama,6.3,954,Sameer Joshi,Siddharth Menon,Vinay Pathak,Ayesha Raza
+14006,100,2019,The Body,101 min,"Mystery, Thriller",5.4,2965,Jeethu Joseph,Emraan Hashmi,Rishi Kapoor,Sobhita Dhulipala
+8835,101,2019,Manikarnika: The Queen of Jhansi,148 min,"Action, Biography, Drama",6.4,10230,Radha Krishna Jagarlamudi,Kangana Ranaut,Kangana Ranaut,Danny Denzongpa
+14248,102,2019,The Sky Is Pink,143 min,"Drama, Romance",7.6,7683,Shonali Bose,Priyanka Chopra Jonas,Farhan Akhtar,Zaira Wasim
+13589,103,2019,Super 30,154 min,"Biography, Drama",8.0,23000,Vikas Bahl,Hrithik Roshan,Mrunal Thakur,Nandish Singh
+8887,104,2019,Mardaani 2,103 min,"Action, Crime, Drama",7.4,8198,Gopi Puthran,Sunny Hinduja,Rani Mukerji,Rajesh Sharma
+10757,105,2019,Penalty,128 min,Sport,5.5,783,Shubham Singh,Lukram Smil,Kay Kay Menon,Shashank Arora
+10384,106,2019,P Se Pyaar F Se Faraar,131 min,"Crime, Drama, Romance",6.8,641,Manoj Shidheshwari Tiwari,Bhavesh Kumar,Jimmy Sheirgill,Kumud Mishra
+8370,107,2019,Lucifer,175 min,"Action, Crime, Drama",7.5,8210,Prithviraj Sukumaran,Mohanlal,Vivek Oberoi,Manju Warrier
+2513,108,2019,Bombay Rose,97 min,"Animation, Drama, Romance",6.0,480,Gitanjali Rao,Cyli Khare,Amit Deondi,Gargi Shitole
+13985,109,2019,The Accidental Prime Minister,112 min,"Biography, Drama",6.0,6373,Vijay Ratnakar Gutte,Anupam Kher,Akshaye Khanna,Suzanne Bernert
+12524,110,2019,Satellite Shankar,135 min,"Action, Drama",6.3,928,Irfan Kamal,Sooraj Pancholi,Anil Reji,Megha Akash
+3087,111,2019,Chopsticks,100 min,"Comedy, Drama",6.5,4293,Sachin Yardi,Abhay Deol,Mithila Palkar,Vijay Raaz
+14058,112,2019,The Elder One,125 min,"Action, Crime, Drama",7.5,1707,Geethu Mohandas,Nivin Pauly,Shashank Arora,Sanjana Dipu
+1435,113,2019,Axone,104 min,"Comedy, Drama",7.0,1979,Nicholas Kharkongor,Sayani Gupta,Lin Laishram,Jimpa Bhutia
+14588,114,2019,Ujda Chaman,120 min,Comedy,6.9,4944,Abhishek Pathak,Danish Singh,Navinder Pal Singh,Sunny Singh Nijjar
+12706,115,2019,Setters,126 min,Thriller,5.3,246,Ashwini Chaudhary,Shreyas Talpade,Aftab Shivdasani,Sonnalli Seygall
+14658,116,2019,Upstarts,112 min,Drama,6.7,736,Udai Singh Pawar,Naved Aslam,Sandeep Bhardwaj,Ranjit Deval
+2679,117,2019,Cargo,119 min,"Drama, Fantasy, Sci-Fi",5.7,2589,Arati Kadav,Vikrant Massey,Shweta Tripathi,Nandu Madhav
+2810,118,2019,Chanakya,147 min,"Action, Adventure, Thriller",5.5,521,Thiru,Mehreen Pirzada,Nassar,Zareen Khan
+12651,119,2019,Scotland,120 min,Crime,5.3,406,Manish Vatssalya,Adam Saini,Khushboo Purohit,Chetan Pandit
+9396,120,2019,Mission Mangal,130 min,"Drama, History",6.5,12611,Jagan Shakti,Akshay Kumar,Vidya Balan,Taapsee Pannu
+8498,121,2019,Made in China,128 min,"Comedy, Drama",6.2,3845,Mikhil Musale,Rajkummar Rao,Boman Irani,Mouni Roy
+8382,122,2019,Luka Chuppi,126 min,"Comedy, Romance",6.3,8808,Laxman Utekar,Kartik Aaryan,Kriti Sanon,Aparshakti Khurana
+1285,123,2019,Article 15,130 min,"Crime, Drama, Mystery",8.2,25706,Anubhav Sinha,Ayushmann Khurrana,Nassar,Manoj Pahwa
+4311,124,2019,Eeb Allay Ooo!,98 min,"Comedy, Drama",7.4,1247,Prateek Vats,Shardul Bharadwaj,Mahender Nath,Nutan Sinha
+1889,125,2019,Barot House,89 min,"Mystery, Thriller",7.3,1135,Bugs Bhargava Krishna,Amit Sadh,Manjari Fadnnis,Aaryan Menghji
+11966,126,2019,Romeo Akbar Walter,141 min,"Action, Drama, Thriller",6.6,5120,Robbie Grewal,John Abraham,Jackie Shroff,Mouni Roy
+4323,127,2019,Eiga Doraemon: Nobita no getsumen tansaki,111 min,"Animation, Action, Adventure",6.8,556,Jeong-beom Lee,Shinnosuke Yakuwa,Wasabi Mizuta,Sang Hyun Uhm
+5797,128,2019,House Arrest,104 min,Comedy,5.5,1486,Samit Basu,Shashanka Ghosh,Ali Fazal,Shriya Pilgaonkar
+14423,129,2019,Tottaa Pataaka Item Maal,107 min,Drama,7.6,1361,Aditya Kripalani,Ahmareen Anjum,Chitrangada Chakraborty,Sonal Joshi
+5267,130,2019,Gumnaami,142 min,"Action, Drama, History",7.8,1695,Srijit Mukherji,Prasenjit Chatterjee,Anirban Bhattacharya,Tanushree Chakraborty
+4605,131,2019,Family of Thakurganj,127 min,"Action, Drama",8.4,427,Manoj K. Jha,Prince Singh,Jimmy Sheirgill,Mahie Gill
+15288,132,2019,Yeh Suhaagraat Impossible,92 min,Comedy,8.6,500,Abhinav Thakur,Preetika Chauhan,Aarav Mavi,Aloknath Pathak
+15045,133,2019,What are the Odds?,92 min,Drama,5.4,597,Megha Ramaswamy,Yashaswini Dayama,Karanvir Malhotra,Abhay Deol
+1751,134,2019,Bala,133 min,Comedy,7.3,12370,Amar Kaushik,Ayushmann Khurrana,Bhumi Pednekar,Yami Gautam
+7733,135,2019,Kirket,132 min,"Drama, Sport",7.5,270,Yogendra Singh,Kirti Azad,Sonam Chhabra,Sonu Jha
+13357,136,2019,Son Rise,49 min,Documentary,8.2,213,Vibha Bakshi,,,
+12675,137,2019,Section 375,124 min,"Crime, Drama, Mystery",8.1,13045,Ajay Bahl,Akshaye Khanna,Richa Chadha,Rahul Bhatt
+7073,138,2019,Kadakh,108 min,"Comedy, Drama, Thriller",7.0,1381,Rajat Kapoor,Ranvir Shorey,Mansi Multani,Palomi Ghosh
+6697,139,2019,Jhalki,104 min,Drama,7.2,672,Brahmanand S. Singh,Tanvi Jain,Boman Irani,Tannishtha Chatterjee
+7465,140,2019,Kesari,150 min,"Action, Drama, History",7.4,15660,Anurag Singh,Akshay Kumar,Parineeti Chopra,Suvinder Vicky
+2984,141,2019,Chhichhore,143 min,"Comedy, Drama",8.3,38581,Nitesh Tiwari,Sushant Singh Rajput,Shraddha Kapoor,Varun Sharma
+8238,142,2019,Little Baby,105 min,Family,8.6,1417,Shekhar S. Jha,Priyanshu Chatterjee,Gulnaz Siganporia,Aadi
+13963,143,2019,Thackeray,120 min,"Biography, Drama",5.2,3005,Abhijit Panse,Nawazuddin Siddiqui,Amrita Rao,Radha Sagar
+120,144,2019,706,120 min,Thriller,5.3,449,Shravankumar Tiwari,Mohan Agashe,Raayo S. Bakhirta,Divya Dutta
+7978,145,2019,Laal Kaptaan,155 min,"Action, Adventure, Drama",7.3,4115,Navdeep Singh,Saif Ali Khan,Zoya Hussain,Manav Vij
+9724,146,2019,Music Teacher,101 min,"Drama, Romance",6.3,598,Sarthak Dasgupta,Neena Gupta,Divya Dutta,Manav Kaul
+10675,147,2019,Pati Patni Aur Woh,126 min,"Comedy, Romance",5.7,6166,Mudassar Aziz,Kartik Aaryan,Bhumi Pednekar,Ananya Panday
+7290,148,2019,Kanpuriye,103 min,Drama,6.3,1098,Ashish Aryan,Aparshakti Khurana,Divyendu Sharma,Vijay Raaz
+3455,149,2019,Darkness Visible,107 min,Thriller,5.6,329,Neil Biswas,Seema Biswas,Sayani Gupta,Sal�me Gunnarsd�ttir
+1618,150,2019,Badla,118 min,"Crime, Drama, Mystery",7.8,23890,Sujoy Ghosh,Amitabh Bachchan,Taapsee Pannu,Amrita Singh
+4448,151,2019,Ek Ladki Ko Dekha Toh Aisa Laga,120 min,"Comedy, Drama, Romance",5.5,3934,Shelly Chopra Dhar,Sonam Kapoor,Anil Kapoor,Rajkummar Rao
+12065,152,2019,S.P. Chauhan,136 min,Drama,5.4,348,Manoj K. Jha,Jimmy Sheirgill,Yuvika Chaudhary,Yashpal Sharma
+14160,153,2019,The Lift Boy,107 min,"Comedy, Drama",7.2,2375,Jonathan Augustin,Moin Khan,Nyla Masood,Sagar Kale
+9590,154,2019,Mudda 370 J&K,132 min,"Action, Drama",8.6,699,Rakesh Sawant,Hiten Tejwani,Anjali Pandey,Manoj Joshi
+7053,155,2019,Kabir Singh,173 min,"Action, Drama, Romance",7.1,27731,Sandeep Reddy Vanga,Shahid Kapoor,Kiara Advani,Nikita Dutta
+832,156,2019,Albert Pinto Ko Gussa Kyun Aata Hai?,100 min,Drama,5.5,349,Soumitra Ranade,Manav Kaul,Nandita Das,Amarjeet Amle
+121,157,2019,72 Hours: Martyr Who Never Died,130 min,"Action, Biography, Drama",5.3,249,Avinash Dhyani,Avinash Dhyani,Yeshi Dema,Alka Amin
+5258,158,2019,Gully Boy,154 min,"Drama, Music, Romance",8.0,33901,Zoya Akhtar,Vijay Varma,Nakul Roshan Sahdev,Ranveer Singh
+5834,159,2019,Hum Chaar,143 min,Drama,5.7,286,Abhishek Dixit,Prit Kamani,Simran Sharma,Anshuman Malhotra
+2448,160,2019,Blank,107 min,"Action, Thriller",6.2,933,Behzad Khambata,Sunny Deol,Karan Kapadia,Karanvir Sharma
+6833,161,2019,Judgementall Hai Kya,121 min,"Comedy, Drama, Mystery",5.9,5419,Prakash Kovelamudi,Kangana Ranaut,Rajkummar Rao,Amyra Dastur
+14259,162,2019,The Tashkent Files,134 min,"Drama, Mystery, Thriller",7.8,9579,Vivek Agnihotri,Shweta Basu Prasad,Mithun Chakraborty,Naseeruddin Shah
+10941,163,2019,Praana,107 min,"Crime, Drama, Horror",8.3,793,V.K. Prakash,Nithya Menen,,
+14141,164,2019,The Last Color,90 min,Drama,7.9,778,Vikas Khanna,Anuj Tyagi,Vajid Ali,Ankita
+15283,165,2019,Yeh Saali Aashiqui,137 min,"Drama, Romance, Thriller",8.0,3265,Cherag Ruparel,Vardhan Puri,Shivaleeka Oberoi,Ruslaan Mumtaz
+4177,166,2019,Dream Girl,132 min,"Comedy, Romance",7.0,12276,Raaj Shaandilyaa,Ayushmann Khurrana,Nushrat Bharucha,Annu Kapoor
+11705,167,2019,Ramprasad Ki Tehrvi,115 min,"Comedy, Drama",7.6,3574,Seema Bhargava,Manoj Pahwa,Deepika Amin,Ninad Kamat
+5971,168,2019,"I Am Alone, So Are You...",117 min,Romance,6.5,897,Harish Vyas,Anshuman Jha,Zareen Khan,Ravi Khanvilkar
+3002,169,2019,Chhota Bheem Kung Fu Dhamaka,97 min,"Animation, Action, Adventure",5.2,119,Rajiv Chilaka,Binayak Das,Urvi Ashar,Asif Ali Beig
+13365,170,2019,Sonchiriya,143 min,"Action, Crime, Drama",8.1,9572,Abhishek Chaubey,Sushant Singh Rajput,Bhumi Pednekar,Ashutosh Rana
+2634,171,2019,Bypass Road,137 min,"Drama, Mystery, Thriller",5.4,890,Naman Nitin Mukesh,Neil Nitin Mukesh,Adah Sharma,Gul Panag
+10271,172,2019,Notebook,115 min,"Drama, Romance",6.9,2253,Nitin Kakkar,Zaheer Iqbal,Pranutan Bahl,Mir Mohammed Mehroos
+5164,173,2019,Good Newwz,134 min,Comedy,6.9,15644,Raj Mehta,Akshay Kumar,Kareena Kapoor,Diljit Dosanjh
+4091,174,2019,Dolly Kitty and Those Twinkling Stars,126 min,"Comedy, Drama",5.4,4755,Alankrita Shrivastava,Konkona Sen Sharma,Bhumi Pednekar,Amol Parashar
+6899,175,2019,Junglee,115 min,"Action, Adventure, Thriller",5.6,1658,Chuck Russell,Vidyut Jammwal,Lars Kjeldsen,Asha Bhat
+8913,176,2019,Marudhar Express,106 min,"Drama, Romance",6.1,554,Vishal Mishra,Kunaal Roy Kapur,Tara-Alisha Berry,Rajesh Sharma
+133,177,2019,99 Songs,128 min,"Musical, Romance",7.4,1901,Vishwesh Krishnamoorthy,Ehan Bhat,Edilsy Vargas,Tenzing Dalha
+10276,178,2019,NTR Kathanayakudu,169 min,"Biography, Drama",5.6,1866,Radha Krishna Jagarlamudi,Nandamuri Balakrishna,Vidya Balan,Satyanarayana Kaikala
+14997,179,2019,War,154 min,"Action, Adventure, Thriller",6.5,20894,Siddharth Anand,Hrithik Roshan,Tiger Shroff,Vaani Kapoor
+8749,180,2019,Malaal,136 min,"Action, Drama, Romance",6.0,850,Mangesh Hadawale,Meezaan Jafri,Sharmin Segal,Chinmayee Surve
+1645,181,2019,Badnaam Gali,95 min,Comedy,7.1,805,Ashwin Shetty,Patralekhaa Paul,Divyendu Sharma,Dolly Ahluwalia
+3213,182,2019,Commando 3,133 min,"Action, Adventure, Thriller",5.7,2425,Aditya Datt,Vidyut Jammwal,Adah Sharma,Gulshan Devaiah
+10216,183,2019,Nirvana Inn,95 min,Mystery,5.9,200,Vijay Jayapal,Adil Hussain,Rajshri Deshpande,Sandhya Mridul
+5159,184,2019,Gone Kesh,110 min,"Comedy, Drama",7.0,1222,Qasim Khallow,Shweta Tripathi,Alisha,Deepika Amin
+12092,185,2019,Saand Ki Aankh,146 min,"Biography, Drama",7.7,4210,Tushar Hiranandani,Taapsee Pannu,Bhumi Pednekar,Prakash Jha
+3062,186,2019,Chippa,90 min,Drama,6.5,941,Safdar Rahman,Sunny Pawar,Mala Mukherjee,Surojit
+10469,187,2019,Pailwaan,166 min,"Action, Drama, Sport",6.4,1671,S Krishna,Sunil Shetty,Sudeep,Sushant Singh
+10965,188,2019,Prassthanam,141 min,"Action, Drama",5.9,1265,Deva Katta,Sanjay Dutt,Jackie Shroff,Ali Fazal
+15066,189,2019,Why Cheat India,121 min,"Crime, Drama",6.0,2442,Soumik Sen,Emraan Hashmi,Shreya Dhanwanthary,Snighdadeep Chatterji
+6494,190,2018,Jalebi,112 min,"Drama, Romance",6.0,2479,Pushpdeep Bhardwaj,Rhea Chakraborty,Varun Mitra,Digangana Suryavanshi
+8073,191,2018,Laila Majnu,140 min,"Drama, Romance",7.8,2701,Sajid Ali,Avinash Tiwary,Tripti Dimri,Sumit Kaul
+2254,192,2018,Bhonsle,128 min,Drama,7.0,1257,Devashish Makhija,Manoj Bajpayee,Santosh Juvekar,Ipshita Chakraborty Singh
+5508,193,2018,Har Kisse Ke Hisse: Kaamyaab,109 min,Drama,7.9,3781,Hardik Mehta,Sanjay Mishra,Deepak Dobriyal,Sarika Singh
+5412,194,2018,Halkaa,114 min,"Drama, Family",7.2,378,Nila Madhab Panda,Ranvir Shorey,Paoli Dam,Aryan Preet
+11883,195,2018,Reva,159 min,Drama,8.4,692,Rahul Bhole,Vinit Kanojia,Bhairavi Athavle,Abhinay Banker
+8338,196,2018,Love Per Square Foot,133 min,"Comedy, Romance",7.2,7588,Anand Tiwari,Vicky Kaushal,Angira Dhar,Alankrita Sahai
+9964,197,2018,Nanu Ki Jaanu,133 min,"Comedy, Drama, Horror",5.9,954,Faraz Haider,Abhay Deol,Patralekhaa Paul,Rajesh Sharma
+2201,198,2018,Bhavesh Joshi Superhero,154 min,"Action, Crime, Drama",7.6,7479,Vikramaditya Motwane,Harshvardhan Kapoor,Priyanshu Painyuli,Ashish Verma
+4573,199,2018,Evening Shadows,102 min,Drama,7.1,472,Sridhar Rangayan,Mona Ambegaonkar,Ananth Narayan Mahadevan,Devansh Doshi
+4991,200,2018,Genius,165 min,"Action, Thriller",5.3,1823,Anil Sharma,Utkarsh Sharma,Ishita Chauhan,Mithun Chakraborty
+6969,201,2018,Kaala,162 min,"Action, Drama",6.7,8163,Pa. Ranjith,Rajinikanth,Nana Patekar,Samuthirakani
+10331,202,2018,Once Again,101 min,"Drama, Romance",7.0,869,Kanwal Sethi,Shefali Shah,Neeraj Kabi,Bidita Bag
+10804,203,2018,Phir Se...,118 min,Romance,5.4,206,Ajay Bhuyan,Kunal Kohli,Dalip Tahil,Jennifer Winget
+13380,204,2018,Sonu Ke Titu Ki Sweety,138 min,"Comedy, Romance",7.1,20000,Luv Ranjan,Kartik Aaryan,Nushrat Bharucha,Sunny Singh Nijjar
+11507,205,2018,Raid,122 min,"Action, Crime, Drama",7.4,15835,Raj Kumar Gupta,Ajay Devgn,Ileana D'Cruz,Amit Bimrot
+744,206,2018,Aiyaary,157 min,"Action, Drama, Thriller",5.3,4167,Neeraj Pandey,Sidharth Malhotra,Manoj Bajpayee,Rakul Preet Singh
+1513,207,2018,Baarish Aur Chowmein,48 min,Drama,6.1,271,Tigmanshu Dhulia,Amit Sadh,Taapsee Pannu,Tariq Naved Siddiqui
+192,208,2018,Aadamkhor,72 min,Horror,7.4,150,Kshitij Sharma,Deeya Dey,Anoma Pabuwal,Mahendra Singh Rawat
+14525,209,2018,Tumbbad,104 min,"Drama, Fantasy, Horror",8.3,32920,Rahi Anil Barve,Anand Gandhi,Adesh Prasad,Sohum Shah
+5646,210,2018,Helicopter Eela,135 min,Drama,5.6,1042,Pradeep Sarkar,Kajol,Riddhi Sen,Tota Roy Chowdhury
+6005,211,2018,Idam Jagath,126 min,"Action, Thriller",5.4,115,Anil Srikantam,Sumanth,Anju Kurian,Darbha Appaji Ambarisha
+9740,212,2018,My Birthday Song,95 min,Thriller,5.5,258,Samir Soni,Nora Fatehi,Elena Kazan,Suparna Moitra
+2303,213,2018,Bhor: Dawn,93 min,Drama,7.8,147,Kamakhya Narayan Singh,Devesh Ranjan,Saveree Gaur,Nalneesh Neel
+10297,214,2018,October,115 min,"Drama, Romance",7.5,14013,Shoojit Sircar,Varun Dhawan,Banita Sandhu,Gitanjali Rao
+14041,215,2018,The Dark Side of Life: Mumbai City,125 min,Drama,5.9,478,Tariq Khan,Avii,Mahesh Bhatt,Sayed Gul
+4543,216,2018,Ekkees Tareekh Shubh Muhurat,97 min,Drama,5.7,394,Pavan Kumar,Sanjay Mishra,Mahesh Sharma,Kajal Jain
+15426,217,2018,Zero,164 min,"Comedy, Drama, Romance",5.4,24784,Aanand L. Rai,Shah Rukh Khan,Anushka Sharma,Katrina Kaif
+78,218,2018,3 Storeys,100 min,Drama,6.9,358,Arjun Mukerjee,Aisha Ahmed,Tarun Anand,Richa Chadha
+5143,219,2018,GOLD,151 min,"Drama, History, Sport",7.3,11932,Reema Kagti,Akshay Kumar,Mouni Roy,Kunal Kapoor
+8466,220,2018,Maassab (The Teacher),116 min,Drama,8.6,155,Aditya Om,Shiva Suryavanshi,Sheetal Singh,Manveer Choudhary
+11448,221,2018,Raazi,138 min,"Action, Drama, Thriller",7.8,26557,Meghna Gulzar,Alia Bhatt,Vicky Kaushal,Rajit Kapoor
+7476,222,2018,Khajoor Pe Atke,119 min,Comedy,5.6,221,Harsh Chhaya,Vinay Pathak,Suneeta Sengupta,Alka Amin
+11148,223,2018,Purdah,71 min,"Documentary, Drama, Sport",8.1,276,Jeremy Guy,,,
+14714,224,2018,Vada Chennai,164 min,"Action, Crime, Drama",8.5,13120,Vetrimaaran,Dhanush,Ameer Sultan,Radha Ravi
+2594,225,2018,Bulbul Can Sing,95 min,Drama,6.8,323,Rima Das,Pakija Begam,Arnali Das,Manabendra Das
+12400,226,2018,Sanju,155 min,"Biography, Comedy, Drama",7.7,49199,Rajkumar Hirani,Ranbir Kapoor,Paresh Rawal,Manisha Koirala
+11594,227,2018,Rajma Chawal,117 min,"Comedy, Drama, Family",5.8,1698,Leena Yadav,Amyra Dastur,Rishi Kapoor,Sheeba Chaddha
+14383,228,2018,Tony: My Mentor the Serial Killer,124 min,Thriller,7.9,485,Vipul K. Rawal,Mahesh Jilowa,Yashodhan Rana,Manoj Chandila
+5692,229,2018,High Jack,102 min,Comedy,5.4,303,Akarsh Khurana,Sumeet Vyas,Mantra Mugdh,Sonnalli Seygall
+5457,230,2018,Hamid,108 min,Drama,7.8,1055,Aijaz Khan,Talha Arshad Reshi,Vikas Kumar,Rasika Dugal
+176,231,2018,AA BB KK,121 min,Drama,8.0,249,Ramkumar Shedge,Shravani Abhang,Sajid Ali,Tamannaah Bhatia
+13217,232,2018,Silvat,45 min,"Drama, Romance",7.1,168,Tanuja Chandra,Kartik Aaryan,Amal Farooque,Maaman Memon
+10432,233,2018,Padmaavat,164 min,"Drama, History, Romance",7.0,28573,Sanjay Leela Bhansali,Deepika Padukone,Ranveer Singh,Shahid Kapoor
+11827,234,2018,Reason,261 min,Documentary,9.1,125,Anand Patwardhan,,,
+2445,235,2018,Blackmail,138 min,"Comedy, Thriller",7.1,9671,Abhinay Deo,Irrfan Khan,Kirti Kulhari,Urmila Matondkar
+54,236,2018,2.0,148 min,"Action, Sci-Fi",6.2,21938,S. Shankar,Rajinikanth,Akshay Kumar,Amy Jackson
+13386,237,2018,Soorma,131 min,"Biography, Drama, Sport",7.4,4648,Shaad Ali,Diljit Dosanjh,Taapsee Pannu,Angad Bedi
+1919,238,2018,Batti Gul Meter Chalu,161 min,Drama,6.0,4685,Shree Narayan Singh,Shahid Kapoor,Shraddha Kapoor,Divyendu Sharma
+14926,239,2018,Vishwaroopam 2,145 min,"Action, Thriller",5.9,2314,Kamal Haasan,Kamal Haasan,Rahul Bose,Shekhar Kapur
+1600,240,2018,Badhaai Ho,124 min,"Comedy, Drama",8.0,29518,Amit Ravindernath Sharma,Ayushmann Khurrana,Neena Gupta,Gajraj Rao
+13225,241,2018,Simmba,158 min,"Action, Comedy, Crime",5.6,15244,Rohit Shetty,Sam Nagar,Ranveer Singh,Sara Ali Khan
+15062,242,2018,Who,153 min,"Mystery, Sci-Fi",5.1,260,Ajay Devaloka,Sajin Saleem,Akhil,Arjun
+10599,243,2018,Pari,136 min,"Fantasy, Horror, Mystery",6.6,5900,Prosit Roy,Anushka Sharma,Parambrata Chattopadhyay,Rajat Kapoor
+7452,244,2018,Kedarnath,116 min,"Drama, Romance",6.9,11446,Abhishek Kapoor,Sushant Singh Rajput,Sara Ali Khan,Nitish Bharadwaj
+5484,245,2018,Hanuman vs. Mahiravana,91 min,Animation,6.9,103,Ezhil Vendan,Rajesh Jolly,,
+13376,246,2018,Soni,97 min,"Crime, Drama",7.2,2528,Ivan Ayr,Geetika Vidya Ohlyan,Saloni Batra,Vikas Shukla
+13262,247,2018,Sir,99 min,"Drama, Romance",7.7,5461,Rohena Gera,Tillotama Shome,Vivek Gomber,Geetanjali Kulkarni
+15312,248,2018,Yours Truly,84 min,Drama,5.9,102,Sanjoy Nag,Soni Razdan,Aahana Kumra,Pankaj Tripathi
+10621,249,2018,Parmanu: The Story of Pokhran,129 min,"Action, Drama, History",7.6,21773,Abhishek Sharma,John Abraham,Boman Irani,Diana Penty
+14372,250,2018,Toba Tek Singh,75 min,"Drama, History",6.9,118,Ketan Mehta,Pankaj Kapur,Vinay Pathak,N.K. Pant
+5949,251,2018,Husband Material,156 min,"Comedy, Drama, Romance",6.9,7441,Anurag Kashyap,Taapsee Pannu,Abhishek Bachchan,Vicky Kaushal
+8385,252,2018,Lupt,110 min,"Horror, Thriller",5.6,2027,Prabhuraj,Javed Jaffrey,Niki Walia,Vijay Raaz
+9633,253,2018,Mulk,140 min,Drama,6.9,14156,Anubhav Sinha,Taapsee Pannu,Rishi Kapoor,Neena Gupta
+3288,254,2018,Daas Dev,140 min,"Drama, Thriller",5.1,257,Sudhir Mishra,Yogesh Raj Mishra,Rahul Bhatt,Richa Chadha
+14940,255,2018,Vodka Diaries,120 min,"Mystery, Thriller",5.6,1287,Kushal Srivastava,Kay Kay Menon,Raima Sen,Mandira Bedi
+13527,256,2018,Sui Dhaaga,122 min,"Comedy, Drama",6.8,7421,Sharat Katariya,Anushka Sharma,Varun Dhawan,Raghuvir Yadav
+12002,257,2018,Roshni,45 min,"Documentary, Family",6.2,186,Anshul Adhikari,Nazneen Bhatia,Roshni,Vandana Shiva
+9284,258,2018,Meri Nimmo,90 min,Drama,7.1,283,Rahul Shanklya,Anjali Patil,Karan Dave,Aryan Mishra
+10500,259,2018,Paltan,150 min,"Action, Drama, History",5.3,939,J.P. Dutta,Jackie Shroff,Arjun Rampal,Sonu Sood
+8885,260,2018,Mard Ko Dard Nahin Hota,134 min,"Action, Comedy",7.4,6647,Vasan Bala,Abhimanyu Dasani,Radhika Madan,Mahesh Manjrekar
+8360,261,2018,Lovefucked,106 min,"Drama, Romance",6.0,365,Aadish Keluskar,Himanshu Kohli,Rohit Kokate,Khushboo Upadhyay
+14661,262,2018,Uri: The Surgical Strike,138 min,"Action, Drama, War",8.2,45981,Aditya Dhar,Vicky Kaushal,Paresh Rawal,Mohit Raina
+14325,263,2018,Three and a Half,121 min,Drama,6.6,228,Dar Gai,Dheer Momaya,Arya Dave,Chandani Grover
+5688,264,2018,Hichki,116 min,"Comedy, Drama",7.5,11094,Siddharth Malhotra,Asif Basra,Rani Mukerji,Neeraj Kabi
+14720,265,2018,Vaibhav Sethia: Don't,61 min,Comedy,6.9,187,Manu Prakash Singh,Vaibhav Sethia,,
+8866,266,2018,Manto,112 min,"Biography, Drama",7.4,3929,Nandita Das,Nawazuddin Siddiqui,Rasika Dugal,Tahir Raj Bhasin
+4912,267,2018,Gaon,124 min,Drama,5.3,106,Gautam Singh,Shadab Kamal,Neha Mahajan,Dibyendu Bhattacharya
+10428,268,2018,Pad Man,140 min,"Comedy, Drama",7.9,22611,R. Balki,Akshay Kumar,Radhika Apte,Sonam Kapoor
+6976,269,2018,Kaalakaandi,112 min,"Comedy, Thriller",6.3,2612,Akshat Verma,Saif Ali Khan,Asif Basra,Neil Bhoopalam
+7894,270,2018,Kuchh Bheege Alfaaz,116 min,Romance,7.5,820,Onir,Geetanjali Thapa,Zain Khan Durrani,Shray Rai Tiwari
+7025,271,2018,Kaashi in Search of Ganga,125 min,Thriller,5.4,259,Dhiraj Kumar,Prince Adhikari,Aishwarya Devan,Kranti Prakash Jha
+5792,272,2018,Hotel Mumbai,123 min,"Action, Drama, History",7.6,56048,Anthony Maras,Dev Patel,Armie Hammer,Nazanin Boniadi
+8190,273,2018,Leera the Soulmate,104 min,Sci-Fi,6.3,1624,Sumnash Sri Kaljai,Mehul Adwani,Leera Kaljai,
+1524,274,2018,Baazaar,137 min,"Crime, Drama, Thriller",6.6,4831,Gauravv K. Chawla,Radhika Apte,Saif Ali Khan,Chitrangda Singh
+5771,275,2018,Hope Aur Hum,96 min,"Comedy, Drama, Family",6.3,414,Sudip Bandyopadhyay,Naseeruddin Shah,Kabir Sajid,Virti Vaghani
+10248,276,2018,Noblemen,108 min,Drama,5.8,221,Vandana Kataria,Kunal Kapoor,Ali Haji,Mohammed Ali Mir
+5684,277,2018,Hey Ram Hamne Gandhi Ko maar Diya,106 min,Drama,6.3,166,Naeem Siddiqui,Jatin Goswami,Samiksha Bhatnagar,Subrat Dutta
+15,278,2018,102 Not Out,102 min,"Comedy, Drama",7.4,6619,Umesh Shukla,Amitabh Bachchan,Rishi Kapoor,Vijay Raaz
+13464,279,2018,Stree,128 min,"Comedy, Horror",7.6,29900,Amar Kaushik,Rajkummar Rao,Shraddha Kapoor,Pankaj Tripathi
+1476,280,2018,Baa Baaa Black Sheep,103 min,"Action, Comedy, Crime",6.4,446,Vishwas Paandya,Anupam Kher,Annu Kapoor,Manish Paul
+7355,281,2018,Karwaan,114 min,"Adventure, Comedy, Drama",7.6,13986,Akarsh Khurana,Irrfan Khan,Dulquer Salmaan,Mithila Palkar
+12679,282,2018,Seeking Happily Ever After,104 min,"Drama, Romance",6.8,1117,Harish Vyas,Shivani Raghuvanshi,Anshuman Jha,Ekavali Khanna
+13080,283,2018,Shohrat the Trap,67 min,Thriller,5.2,101,Deepak Ramteke,Mayank Agarwal,Avinash Baviskar,Anil Bhavnani
+10647,284,2018,Pataakha,134 min,"Action, Comedy, Drama",7.2,3824,Vishal Bhardwaj,Sanya Malhotra,Radhika Madan,Sunil Grover
+8386,285,2018,Lust Stories,120 min,"Drama, Romance",6.4,10011,Zoya Akhtar,Dibakar Banerjee,Karan Johar,Anurag Kashyap
+12572,286,2018,Satyameva Jayate,140 min,"Action, Crime, Drama",5.7,6302,Milap Zaveri,John Abraham,Manoj Bajpayee,Aisha Sharma
+8343,287,2018,Love Sonia,122 min,Drama,7.4,1570,Tabrez Noorani,Abhishek Bharate,Riya Sisodiya,Mrunal Thakur
+1019,288,2018,Andhadhun,139 min,"Crime, Drama, Music",8.2,77901,Sriram Raghavan,Ayushmann Khurrana,Tabu,Radhika Apte
+9407,289,2018,Mitron,119 min,Comedy,6.9,2334,Nitin Kakkar,Jackky Bhagnani,Kritika Kamra,Prateik
+6345,290,2018,Jack & Dil,98 min,"Comedy, Family",7.5,715,Sachin P. Karande,Amit Sadh,Arbaaz Khan,Sonal Chauhan
+9388,291,2018,Missing,120 min,"Drama, Mystery, Thriller",5.8,2074,Mukul Abhyankar,Manoj Bajpayee,Tabu,Annu Kapoor
+4783,292,2018,FryDay,114 min,"Comedy, Drama",5.2,783,Abhishek Dogra,Govinda,Digangana Suryavanshi,Varun Sharma
+9347,293,2017,Mirror Game,113 min,"Crime, Mystery, Thriller",6.1,222,Vijit Sharma,Parvin Dabas,Dhruv Bali,Pooja Batra
+14116,294,2017,The Hungry,100 min,Drama,7.2,894,Bornila Chatterjee,Naseeruddin Shah,Tisca Chopra,Neeraj Kabi
+9289,295,2017,Meri Pyaari Bindu,117 min,"Comedy, Drama, Romance",6.0,4495,Akshay Roy,Ayushmann Khurrana,Parineeti Chopra,Aarnaa Sharma
+14839,296,2017,Viceroy's House,106 min,"Biography, Drama, History",6.7,7117,Gurinder Chadha,Hugh Bonneville,Gillian Anderson,Manish Dayal
+12681,297,2017,Seeking True Love,116 min,"Comedy, Romance",7.5,20275,Ashwiny Iyer Tiwari,Ayushmann Khurrana,Kriti Sanon,Rajkummar Rao
+5234,298,2017,Guest iin London,132 min,Comedy,5.4,1770,Ashwani Dhir,Kartik Aaryan,Kriti Kharbanda,Paresh Rawal
+850,299,2017,Alif,120 min,Drama,6.5,137,Zaigham Imam,Neelima Azim,Pawan Tiwari,Bhavna Pani
+12044,300,2017,Running Shaadi,114 min,"Comedy, Romance",6.6,2440,Amit Roy,Arsh Bajwa,Taapsee Pannu,Richa Meena
+2371,301,2017,Bioscopewala,91 min,Drama,7.6,882,Deb Medhekar,Danny Denzongpa,Geetanjali Thapa,Adil Hussain
+3753,302,2017,Dhh,128 min,"Drama, Family",7.8,235,Manish Saini,Naseeruddin Shah,Kahaan,Karan Patel
+14347,303,2017,Tikli and Laxmi Bomb,151 min,Drama,7.9,1785,Aditya Kripalani,Chitrangada Chakraborty,Vibhawari Deshpande,Saharsh Kumar Shukla
+4789,304,2017,Fukrey Returns,141 min,Comedy,6.5,4890,Mrighdeep Lamba,Pulkit Samrat,Varun Sharma,Ali Fazal
+12728,305,2017,Shaadi Mein Zaroor Aana,137 min,"Drama, Romance",7.6,13387,Ratnaa Sinha,Rajkummar Rao,Kriti Kharbanda,K.K. Raina
+14531,306,2017,Tumhari Sulu,150 min,"Comedy, Drama",7.0,4761,Suresh Triveni,Vidya Balan,Manav Kaul,Neha Dhupia
+11387,307,2017,Raag Desh,135 min,"Action, Drama, History",8.1,376,Tigmanshu Dhulia,Kunal Kapoor,Amit Sadh,Mohit Marwah
+7076,308,2017,Kadamban,142 min,"Action, Adventure, Drama",5.3,417,N. Ragavan,Arya,Catherine Tresa,Deepraj Rana
+10931,309,2017,Poorna,100 min,"Action, Adventure, Biography",7.8,1343,Rahul Bose,Prashant Pandey,Aditi Inamdar,Rahul Bose
+14377,310,2017,Toilet: A Love Story,155 min,"Comedy, Drama",7.2,18889,Shree Narayan Singh,Anupam Kher,Akshay Kumar,Bhumi Pednekar
+1654,311,2017,Badrinath Ki Dulhania,139 min,"Comedy, Drama, Romance",6.1,10865,Shashank Khaitan,Varun Dhawan,Alia Bhatt,Sahil Vaid
+11384,312,2017,Raabta,147 min,"Action, Drama, Fantasy",5.1,6311,Dinesh Vijan,Deepika Padukone,Sushant Singh Rajput,Rajkummar Rao
+8302,313,2017,Love and Shukla,107 min,"Comedy, Drama, Romance",7.4,828,Jatla Siddartha,Saharsh Kumar Shukla,Taneea Rajawat,Hima Singh
+14812,314,2017,Veeram,100 min,"Action, Drama, History",6.4,222,Jayaraaj,Kunal Kapoor,Himarsha Venkatsamy,Aaran
+14077,315,2017,The Ghazi Attack,116 min,"Action, Thriller, War",7.6,12367,Sankalp Reddy,Rana Daggubati,Kay Kay Menon,Atul Kulkarni
+9480,316,2017,Mom,146 min,"Crime, Drama, Thriller",7.3,9395,Ravi Udyawar,Sridevi,Sajal Ali,Akshaye Khanna
+14111,317,2017,The House Next Door,137 min,Horror,6.8,2139,Milind Rau,Prakash Belawadi,Khushi Hajare,Andrea Jeremiah
+10938,318,2017,Poster Boys,128 min,Comedy,5.4,1446,Shreyas Talpade,Sunny Deol,Bobby Deol,Shreyas Talpade
+7908,319,2017,Kuldip Patwal: I Didn't Do It!,128 min,"Crime, Drama, Mystery",6.6,614,Remy Kohli,Deepak Dobriyal,Gulshan Devaiah,Raima Sen
+10310,320,2017,OK Jaanu,135 min,"Drama, Romance",5.2,3883,Shaad Ali,Aditya Roy Kapoor,Shraddha Kapoor,Naseeruddin Shah
+15231,321,2017,Yeh Hai India,128 min,"Action, Adventure, Drama",5.2,175,Lom Harsh,Gavie Chahal,Mohan Agashe,Mohan Joshi
+8208,322,2017,LIE,145 min,"Action, Adventure, Thriller",5.9,880,Hanu Raghavapudi,Nithiin,Megha Akash,Ravi Kishan
+11342,323,2017,Qarib Qarib Single,125 min,"Comedy, Romance",7.1,7382,Tanuja Chandra,Irrfan Khan,Parvathy Thiruvothu,Neha Dhupia
+3317,324,2017,Daddy,134 min,"Action, Biography, Crime",6.4,1886,Ashim Ahluwalia,Arjun Rampal,Aishwarya Rajesh,Nishikant Kamat
+6169,325,2017,Irada,109 min,"Drama, Mystery, Thriller",6.3,1284,Aparnaa Singh,Naseeruddin Shah,Arshad Warsi,Divya Dutta
+12031,326,2017,Rukh,106 min,"Drama, Mystery",6.4,596,Atanu Mukherjee,Manoj Bajpayee,Smita Tambe,Adarsh Gourav
+9587,327,2017,Mubarakan,156 min,"Comedy, Romance",5.5,3629,Anees Bazmee,Anil Kapoor,Arjun Kapoor,Ileana D'Cruz
+14626,328,2017,Union Leader,106 min,Drama,7.3,694,Sanjay Patel,Rahul Bhatt,Tillotama Shome,Zala Akash
+9827,329,2017,Naam Shabana,147 min,"Action, Thriller",6.3,5924,Shivam Nair,Taapsee Pannu,Akshay Kumar,Manoj Bajpayee
+1986,330,2017,Behen Hogi Teri,128 min,Comedy,5.6,1873,Ajay Pannalal,Arvind Singh Rajpoot,Rajkummar Rao,Shruti Haasan
+13176,331,2017,Shuddhi,114 min,"Crime, Drama, Thriller",7.9,374,Adarsh Eshwarappa,Lauren Spartano,Niveditha,Amrutha Karagada
+11762,332,2017,Rangoon,170 min,"Action, Drama, History",5.6,3903,Vishal Bhardwaj,Kangana Ranaut,Shahid Kapoor,Saif Ali Khan
+762,333,2017,Ajji,104 min,Drama,6.9,973,Devashish Makhija,Sushama Deshpande,Smita Tambe,Sharvani Suryavanshi
+14212,334,2017,The Rally,130 min,"Action, Drama, Romance",7.3,249,Deepak Anand,Mirza,Arshin Mehta,Sachin Chhabra
+12668,335,2017,Secret Superstar,150 min,"Drama, Music",7.8,21923,Advait Chandan,Zaira Wasim,Meher Vij,Raj Arjun
+3212,336,2017,Commando 2,144 min,"Action, Adventure, Thriller",5.3,3015,Deven Bhojani,Vidyut Jammwal,Adah Sharma,Esha Gupta
+2194,337,2017,Bhasmasur,74 min,Drama,6.8,132,Nishil Sheth,Imran Rasheed,Mittal Chouhan,Trimala Adhikari
+12165,338,2017,Sachin - A Billion Dreams,138 min,"Documentary, Sport",8.6,7711,James Erskine,Sachin Tendulkar,Mikhail Gandhi,Anjali Tendulkar
+1510,339,2017,Baaraat Company,124 min,"Comedy, Romance",6.2,179,Syed Ahmad Afzal,Sandeepa Dhar,Archana Gautam,Anurita Jha
+13172,340,2017,Shubh Mangal Savdhan,119 min,"Comedy, Romance",6.9,9094,R.S. Prasanna,Ayushmann Khurrana,Bhumi Pednekar,Seema Bhargava
+8908,341,2017,Maroon,94 min,Thriller,5.1,291,Pulkit,Devyani Cm,Manav Kaul,Saurabh Sachdeva
+1978,342,2017,Begum Jaan,128 min,"Action, Drama, History",5.6,2626,Srijit Mukherji,Amitabh Bachchan,Pallavi Sharda,Naseeruddin Shah
+10167,343,2017,Newton,106 min,"Comedy, Drama",7.7,17734,Amit Masurkar,Rajkummar Rao,Pankaj Tripathi,Anjali Patil
+11890,344,2017,Ribbon,106 min,"Drama, Family",6.9,604,Rackhee Sandilya,Kalki Koechlin,Sumeet Vyas,Pathy Aiyar
+5716,345,2017,Hind Ka Napak Ko Jawab,130 min,"Action, Thriller",6.6,3993,Honeypreet Insan,Gurmeet Ram Rahim Singh,Gurmeet Ram Rahim Singh,Honeypreet Insan
+8374,346,2017,Lucknow Central,133 min,"Action, Crime, Drama",6.2,2690,Ranjit Tewari,Farhan Akhtar,Diana Penty,Inaamulhaq
+7583,347,2017,Khoj,116 min,"Crime, Mystery, Thriller",6.8,449,Arka Ganguly,Vikram Chatterjee,Shataf Figar,Poonam Gurung
+6961,348,2017,Kaagaz Ki Kashti,127 min,Documentary,8.9,203,Brahmanand S. Singh,Ghulam Ali,Talat Aziz,Mahesh Bhatt
+6563,349,2017,Jattu Engineer,139 min,Comedy,5.8,3336,Honeypreet Insan,Gurmeet Ram Rahim Singh,Muntazir Ahmad,Amardeep Insan
+3855,350,2017,Dil Jo Na Keh Saka,130 min,Romance,5.3,103,Naresh Lalwani,Himansh Kohli,Priya Banerjee,Bhuvnesh Mann
+6016,351,2017,III Smoking Barrels,127 min,Drama,6.5,117,Sanjib Dey,Subrat Dutta,Indraneil Sengupta,Mandakini Goswami
+13226,352,2017,Simran,124 min,"Crime, Drama, Thriller",5.1,3254,Hansal Mehta,Kangana Ranaut,Sohum Shah,Esha Tewari
+6806,353,2017,Jolly LLB 2,137 min,"Comedy, Drama",7.2,23030,Subhash Kapoor,Akshay Kumar,Huma Qureshi,Saurabh Shukla
+6077,354,2017,Indu Sarkar,139 min,"Drama, Thriller",6.0,1446,Madhur Bhandarkar,Kirti Kulhari,Tota Roy Chowdhury,Neil Nitin Mukesh
+14010,355,2017,The Brawler,154 min,"Action, Drama, Sport",8.0,6847,Anurag Kashyap,Vineet Kumar Singh,Jimmy Sheirgill,Zoya Hussain
+6384,356,2017,Jagga Jasoos,161 min,"Action, Adventure, Comedy",6.5,9428,Anurag Basu,Ranbir Kapoor,Katrina Kaif,Saswata Chatterjee
+1844,357,2017,Bank Chor,120 min,"Action, Comedy, Crime",5.9,2603,Bumpy,Riteish Deshmukh,Vivek Oberoi,Rhea Chakraborty
+976,358,2017,Anaarkali of Aarah,113 min,Drama,5.9,1636,Avinash Das,Pankaj Tripathi,Swara Bhaskar,Sanjay Mishra
+2933,359,2017,Chef,133 min,"Comedy, Drama, Family",5.7,2229,Raja Menon,Saif Ali Khan,Padmapriya,Svar Kamble
+2059,360,2017,Beyond the Clouds,120 min,"Drama, Family",7.0,2148,Majid Majidi,Ishaan Khattar,Malavika Mohanan,Goutam Ghose
+2270,361,2017,Bhoomi,136 min,"Action, Crime, Drama",5.3,1755,Omung Kumar,Sharad Kelkar,Sunny Leone,Aditi Rao Hydari
+6043,362,2017,In the Shadows,117 min,"Drama, Thriller",7.1,577,Dipesh Jain,Manoj Bajpayee,Ranvir Shorey,Neeraj Kabi
+45,363,2017,1982 - A Love Marriage,113 min,Comedy,5.5,106,Prashant Gore,Amitkumar Sharma,Omna,Rita Agarwal
+1553,364,2017,Babumoshai Bandookbaaz,122 min,"Action, Crime, Thriller",6.9,1974,Kushan Nandy,Nawazuddin Siddiqui,Bidita Bag,Jatin Goswami
+13842,365,2017,Tawai: A Voice from the Forest,101 min,Documentary,7.4,238,Bruce Parry,Mark Ellam,Bruce Parry,Ingrid Lewis
+10785,366,2017,Phillauri,138 min,"Comedy, Drama, Fantasy",6.1,3596,Anshai Lal,Anushka Sharma,Diljit Dosanjh,Suraj Sharma
+14250,367,2017,The Song of Scorpions,119 min,Drama,5.9,294,Anup Singh,Golshifteh Farahani,Irrfan Khan,Waheeda Rehman
+11470,368,2017,Raees,143 min,"Action, Crime, Drama",6.8,41441,Rahul Dholakia,Raj Arjun,Shubham Chintamani,Shubham Tukaram
+8709,369,2017,Main Tumhare Bachche ki Maa Banne Waali Hoon,45 min,Romance,6.8,101,Ashish Lal,Sadiya Azgar,Dhanraj Kadam,Ashish Lal
+12093,370,2017,Saanjh,109 min,"Drama, Family",8.2,173,Ajay K Saklani,Asif Basra,Tanu Bhardwaj,Aditi Charak
+10325,371,2017,Omerta,98 min,"Action, Biography, Crime",7.2,2851,Hansal Mehta,Rajkummar Rao,Rajesh Tailang,Satwant Kaur
+6950,372,2017,Kaabil,139 min,"Action, Crime, Drama",7.1,24942,Sanjay Gupta,Hrithik Roshan,Yami Gautam,Ronit Roy
+3528,373,2017,Dear Maya,111 min,"Drama, Romance",5.8,390,Sunaina Bhatnagar,Manisha Koirala,Madiha Imam,Shreya Chaudhary
+6243,374,2017,Ittefaq,105 min,"Crime, Mystery, Thriller",7.2,10842,Abhay Chopra,Sidharth Malhotra,Sonakshi Sinha,Akshaye Khanna
+168,375,2017,A Suitable Girl,90 min,Documentary,6.9,337,Sarita Khurana,Smriti Mundhra,Sima Taparia,
+12304,376,2017,Sameer,129 min,Drama,5.4,219,Dakxin Bajrange,Mohd. Zeeshan Ayyub,Master Shubham Bajrange,Jay Bhatt
+7083,377,2017,Kadvi Hawa,95 min,Drama,8.1,985,Nila Madhab Panda,Nilamadhab Panda,Sanjay Mishra,Ranvir Shorey
+5480,378,2017,Hanuman Da Damdaar,105 min,"Animation, Family",5.4,131,Ruchi Narain,Salman Khan,Sunny Deol,Raveena Tandon
+6332,379,2017,Jab Harry Met Sejal,143 min,"Comedy, Drama, Romance",5.3,19349,Imtiaz Ali,Shah Rukh Khan,Anushka Sharma,Bj�rn Freiberg
+5721,380,2017,Hindi Medium,132 min,"Comedy, Drama",7.9,24676,Saket Chaudhary,Irrfan Khan,Saba Qamar,Dishita Sehgal
+10841,381,2017,Phullu,96 min,"Comedy, Drama",6.0,189,Abhishek Saxena,Sharib Hashmi,Jyoti Sethi,Nutan Surya
+8276,382,2017,Long Live Brij Mohan,105 min,"Comedy, Crime, Drama",6.8,2573,Nikhil Bhat,Arjun Mathur,Nidhi Singh,Sheetal Thakur
+14343,383,2017,Tiger Zinda Hai,161 min,"Action, Adventure, Thriller",5.9,25732,Ali Abbas Zafar,Salman Khan,Katrina Kaif,Anupriya Goenka
+150,384,2017,A Gentleman,145 min,"Action, Comedy",6.2,5227,Krishna D.K.,Raj Nidimoru,Sidharth Malhotra,Jacqueline Fernandez
+732,385,2016,Airlift,130 min,"Drama, History",8.0,53897,Raja Menon,Akshay Kumar,Nimrat Kaur,Kumud Mishra
+3527,386,2016,Dear Dad,95 min,"Drama, Family",6.3,384,Tanuj Bhramar,Arvind Swamy,Ekavali Khanna,Himanshu Sharma
+2999,387,2016,Chhota Bheem Himalayan Adventure,97 min,Animation,5.5,117,Rosauro Adorable,Jigna Bhardwaj,Rupa Bhimani,Sonal Kaushal
+2709,388,2016,Chaar Sahibzaade 2: Rise of Banda Singh Bahadur,134 min,Animation,8.6,656,Harry Baweja,Harman Baweja,Pawan Kalra,Om Puri
+8196,389,2016,Lens,109 min,"Drama, Mystery, Thriller",6.7,1111,Jayaprakash Radhakrishnan,Anand Sami,Jayaprakash Radhakrishnan,Misha Ghoshal
+5116,390,2016,Global Baba,120 min,Thriller,5.6,184,Manoj Shidheshwari Tiwari,Pankaj Tripathi,Sandeepa Dhar,Abhimanyu Singh
+14193,391,2016,The Other Side of the Door,96 min,Horror,5.3,17337,Johannes Roberts,Sarah Wayne Callies,Jeremy Sisto,Sofia Rosinsky
+13104,392,2016,Shor Se Shuruaat,125 min,Drama,6.6,145,Amira Bhargava,Rahul V. Chittella,Satish Raj Kasireddi,Pratik Kothari
+13998,393,2016,The BFG,117 min,"Adventure, Family, Fantasy",6.4,79642,Steven Spielberg,Mark Rylance,Ruby Barnhill,Penelope Wilton
+2583,394,2016,Buddha in a Traffic Jam,114 min,"Crime, Thriller",6.7,2346,Vivek Agnihotri,Aanchal Dwivedi,Mahie Gill,Pallavi Joshi
+14005,395,2016,The Blueberry Hunt,110 min,"Action, Thriller",5.6,198,Anup Kurian,Kartik Elangovan,Vinay Forrt,Aahana Kumra
+137,396,2016,A Billion Colour Story,105 min,Drama,8.1,412,Padmakumar Narasimhamurthy,Dhruva Padmakumar,Gaurav Sharma,Vasuki
+8403,397,2016,M.S. Dhoni: The Untold Story,184 min,"Biography, Drama, Sport",7.9,43713,Neeraj Pandey,Sushant Singh Rajput,Kiara Advani,Anupam Kher
+1509,398,2016,Baar Baar Dekho,141 min,"Action, Comedy, Drama",5.3,6423,Nitya Mehra,Sidharth Malhotra,Katrina Kaif,Sayani Gupta
+13064,399,2016,Shivaay,153 min,"Action, Adventure, Drama",6.2,9909,Ajay Devgn,Ajay Devgn,Abigail Eames,Erika Kaar
+5322,400,2016,Gurgaon,107 min,"Crime, Thriller",6.5,1883,Shanker Raman,Akshay Oberoi,Pankaj Tripathi,Aamir Bashir
+8912,401,2016,Martyrs of Marriage,90 min,Documentary,8.5,166,Deepika Narayan Bhardwaj,,,
+4757,402,2016,Force 2,127 min,"Action, Adventure, Thriller",6.2,5048,Abhinay Deo,John Abraham,Sonakshi Sinha,Tahir Raj Bhasin
+12013,403,2016,Rough Book,100 min,Drama,6.8,193,Ananth Narayan Mahadevan,Tannishtha Chatterjee,Mukesh Hariawala,Amaan f Khan
+657,404,2016,Ae Dil Hai Mushkil,158 min,"Drama, Music, Musical",5.8,21661,Karan Johar,Ranbir Kapoor,Aishwarya Rai Bachchan,Anushka Sharma
+14816,405,2016,Veerappan,125 min,"Action, Biography, Crime",5.3,711,Ram Gopal Varma,Sachiin Joshi,Sandeep Bharadwaj,Usha Jadhav
+9437,406,2016,Moh Maya Money,108 min,"Crime, Drama, Thriller",5.6,415,Munish Bhardwaj,Neha Dhupia,Ranvir Shorey,Devendra Chowhan
+967,407,2016,An Insignificant Man,96 min,"Documentary, Thriller",8.7,1928,Khushboo Ranka,Vinay Shukla,Arvind Kejriwal,Saurabh Bhardwaj
+10853,408,2016,Pihu,91 min,"Drama, Thriller",6.7,2205,Kapri Vinod,Rahul Bagga,Pihu Myra Vishwakarma,Prerna Vishwakarma
+8144,409,2016,Land of the Gods,92 min,Drama,7.3,278,Goran Paskaljevic,Victor Banerjee,Geetanjali Thapa,Uttara Baokar
+9522,410,2016,Motu Patlu: King of Kings,110 min,"Animation, Adventure, Comedy",6.7,134,Suhas Kadav,Saurav Chakraborty,Vinay Pathak,
+14544,411,2016,Tutak Tutak Tutiya,138 min,"Comedy, Horror",5.5,744,A.L. Vijay,Sonu Sood,Rajiv Thakur,Rj Ajay
+7980,412,2016,Laal Rang,147 min,"Comedy, Crime, Drama",8.0,4340,Syed Ahmad Afzal,Randeep Hooda,Akshay Oberoi,Rajniesh Duggall
+7703,413,2016,Ki & Ka,126 min,"Comedy, Romance",5.8,5407,R. Balki,Amitabh Bachchan,Arjun Kapoor,Kareena Kapoor
+4040,414,2016,Do Lafzon Ki Kahani,128 min,"Action, Drama, Romance",6.5,1411,Deepak Tijori,Kajal Aggarwal,Anil George,Randeep Hooda
+14957,415,2016,Wah Taj,125 min,Drama,5.4,118,Ajit Sinha,Shreyas Talpade,Manjari Fadnnis,Amitabh Bachchan
+10860,416,2016,Pink,136 min,"Crime, Drama, Thriller",8.1,40953,Aniruddha Roy Chowdhury,Taapsee Pannu,Amitabh Bachchan,Kirti Kulhari
+2304,417,2016,Bhouri,140 min,Drama,6.7,403,Jasbir Bijender Bhati,Raghuvir Yadav,Masha Pour,Kunickaa Sadanand
+7033,418,2016,Kabali,153 min,"Action, Crime, Drama",6.2,11886,Pa. Ranjith,Rajinikanth,Winston Chao,Radhika Apte
+12350,419,2016,Sanam Teri Kasam,154 min,"Drama, Musical, Romance",7.4,10855,Radhika Rao,Vinay Sapru,Harshvardhan Rane,Mawra Hocane
+11828,420,2016,Rebellious Flower,110 min,"Biography, Drama",6.8,241,Krishan Hooda,Prince Shah,Shashank Singh,Mantra Mugdh
+8486,421,2016,Madaari,133 min,"Adventure, Drama, Thriller",7.6,13676,Nishikant Kamat,Irrfan Khan,Jimmy Sheirgill,Vishesh Bansal
+2589,422,2016,Budhia Singh: Born to Run,112 min,"Biography, Drama, Sport",7.6,1393,Soumendra Padhi,Manoj Bajpayee,Mayur Mahendra Patole,Gajraj Rao
+5071,423,2016,Ghayal Once Again,127 min,"Action, Crime, Drama",6.3,4960,Sunny Deol,Sunny Deol,Soha Ali Khan,Om Puri
+3248,424,2016,Crd,108 min,"Drama, Romance",6.2,119,Kranti Kanad�,Mrinmayee Godbole,Isha Keskar,Abhay Mahajan
+15305,425,2016,You Are My Sunday,119 min,"Comedy, Drama",7.8,1459,Milind Dhaimade,Barun Sobti,Shahana Goswami,Avinash Tiwary
+11955,426,2016,Rocky Handsome,119 min,"Action, Crime, Drama",6.8,7647,Nishikant Kamat,John Abraham,Nishikant Kamat,Sharad Kelkar
+3531,427,2016,Dear Zindagi,151 min,"Drama, Romance",7.5,37149,Gauri Shinde,Alia Bhatt,Shah Rukh Khan,Kunal Kapoor
+7300,428,2016,Kapoor & Sons,132 min,"Comedy, Drama, Family",7.7,23991,Shakun Batra,Rishi Kapoor,Rajat Kapoor,Ratna Pathak Shah
+12109,429,2016,Saat Uchakkey,139 min,Comedy,5.7,760,Sanjeev Sharma,Manoj Bajpayee,Vijay Raaz,Aditi Sharma
+6839,430,2016,Jugni,115 min,Drama,6.2,137,Shefali Bhushan,Anurita Jha,Sadhana Singh,Sugandha Garg
+8235,431,2016,Lipstick Under My Burkha,117 min,"Comedy, Drama",6.8,6373,Alankrita Shrivastava,Aahana Kumra,Ratna Pathak Shah,Konkona Sen Sharma
+9584,432,2016,MSG the Warrior: Lion Heart,120 min,"Action, Adventure, Fantasy",6.7,7362,Gurmeet Ram Rahim Singh,Muntazir Ahmad,Ashok Insan,Bhushan Insan
+10137,433,2016,Neerja,122 min,"Biography, Drama, Thriller",7.6,21470,Ram Madhvani,Sonam Kapoor,Shabana Azmi,Yogendra Tiku
+1485,434,2016,Baaghi,133 min,"Action, Romance, Thriller",5.2,7912,Sabir Khan,Shraddha Kapoor,Tiger Shroff,Sudheer Babu Posani
+14430,435,2016,Traffic,104 min,"Adventure, Drama, Thriller",6.7,2478,Rajesh Pillai,Manoj Bajpayee,Jimmy Sheirgill,Divya Dutta
+2767,436,2016,Chalk N Duster,130 min,Drama,6.5,676,Jayant Gilatar,Richa Chadha,Shabana Azmi,Arya Babbar
+12476,437,2016,Sarbjit,131 min,"Biography, Drama",7.3,4497,Omung Kumar,Randeep Hooda,Aishwarya Rai Bachchan,Richa Chadha
+3410,438,2016,Dangal,161 min,"Action, Biography, Drama",8.4,165074,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh
+4608,439,2016,Fan,142 min,"Action, Drama, Thriller",7.0,43273,Maneesh Sharma,Shah Rukh Khan,Sayani Gupta,Shriya Pilgaonkar
+1467,440,2016,Azhar,130 min,"Biography, Drama, Sport",5.7,5328,Anthony D'Souza,Emraan Hashmi,Nargis Fakhri,Prachi Desai
+8482,441,2016,Machines,71 min,Documentary,7.2,555,Rahul Jain,,,
+2483,442,2016,Bollywood Diaries,125 min,Drama,6.0,257,K.D. Satyam,Raima Sen,Salim Diwan,Ashish Vidyarthi
+13295,443,2016,Six X,133 min,Drama,6.9,210,Chandrakant Singh,Seema Azmi,Shweta Bhardwaj,Hrishitaa Bhatt
+3517,444,2016,Days of Tafree,155 min,Comedy,7.3,252,Krishnadev Yagnik,Yash Soni,Ansh Bagri,Sarabjeet Bindra
+5793,445,2016,Hotel Salvation,102 min,"Comedy, Drama",7.1,2009,Shubhashish Bhutiani,Adil Hussain,Lalit Behl,Geetanjali Kulkarni
+7464,446,2016,Kerry on Kutton,125 min,Drama,5.7,216,Ashok Yadav,Bhavana Singh Chauhan,Satyajeet Dubey,Aradhana Jagota
+6429,447,2016,Jai Gangaajal,149 min,"Crime, Drama",5.6,2455,Prakash Jha,Priyanka Chopra Jonas,Prakash Jha,Manav Kaul
+11510,448,2016,Railway Children,120 min,"Crime, Drama",8.0,137,Prithvi Konanur,Yash Shetty,Syed Pervez,Ramachandra Hosur
+13105,449,2016,Shorgul,132 min,Drama,5.7,268,Pranav Singh,Jitendra Tiwari,Jimmy Sheirgill,Ashutosh Rana
+4784,450,2016,Fuddu,100 min,"Comedy, Drama",5.4,155,Sunil Subramani,Shubham,Swati Kapoor,Uday Tikekar
+9825,451,2016,Naam Hai Akira,137 min,"Action, Thriller",5.9,3892,A.R. Murugadoss,Sonakshi Sinha,Anurag Kashyap,Konkona Sen Sharma
+14577,452,2016,Udta Punjab,148 min,"Action, Crime, Drama",7.8,28010,Abhishek Chaubey,Shahid Kapoor,Alia Bhatt,Kareena Kapoor
+13540,453,2016,Sultan,170 min,"Action, Drama, Sport",7.0,41777,Ali Abbas Zafar,Salman Khan,Kubbra Sait,Anushka Sharma
+4725,454,2016,Fitoor,131 min,"Drama, Romance",5.4,4526,Abhishek Kapoor,Aditya Roy Kapoor,Katrina Kaif,Tabu
+143,455,2016,A Death in the Gunj,110 min,"Drama, Thriller",7.5,4637,Konkona Sen Sharma,Kalki Koechlin,Vikrant Massey,Gulshan Devaiah
+5486,456,2016,Happy Bhaag Jayegi,126 min,"Comedy, Romance",6.5,5046,Mudassar Aziz,Diana Penty,Abhay Deol,Jimmy Sheirgill
+3962,457,2016,Dishoom,124 min,"Action, Adventure, Comedy",5.1,7100,Rohit Dhawan,John Abraham,Varun Dhawan,Jacqueline Fernandez
+14132,458,2016,The Karma Killings,83 min,"Documentary, Crime, Mystery",6.9,169,Ram Devineni,Tushar Prakash,,
+14437,459,2016,Trapped,105 min,"Drama, Thriller",7.6,11216,Vikramaditya Motwane,Rajkummar Rao,Geetanjali Thapa,Shiladitya Sen
+11113,460,2016,Psycho Raman,133 min,"Crime, Drama, Thriller",7.4,13418,Anurag Kashyap,Nawazuddin Siddiqui,Vicky Kaushal,Sobhita Dhulipala
+1405,461,2016,Autohead,97 min,"Crime, Drama",5.9,355,Rohit Mittal,Adamya,Sunny Banerjee,Ronjini Chakraborty
+13855,462,2016,Te3n,136 min,"Drama, Mystery, Thriller",7.3,12118,Ribhu Dasgupta,Amitabh Bachchan,Nawazuddin Siddiqui,Vidya Balan
+15022,463,2016,Wazir,103 min,"Action, Crime, Drama",7.1,17809,Bejoy Nambiar,Amitabh Bachchan,Farhan Akhtar,Aditi Rao Hydari
+12086,464,2016,Saala Khadoos,109 min,"Action, Drama, Sport",7.6,11638,Sudha Kongara,Madhavan,Nassar,Radha Ravi
+7089,465,2016,Kahaani 2,127 min,"Mystery, Thriller",6.6,5159,Sujoy Ghosh,Vidya Balan,Arjun Rampal,Jugal Hansraj
+116,466,2016,7 Hours to Go,115 min,"Crime, Thriller",5.7,398,Saurabh Varma,Sandeepa Dhar,Natasa Stankovic,Shiv Panditt
+12053,467,2016,Rustom,148 min,"Crime, Drama, Thriller",7.1,24285,Dharmendra Suresh Desai,Manoj Bajpayee,Akshay Kumar,Sharad Kelkar
+8233,468,2016,Lion,118 min,"Biography, Drama",8.0,220526,Garth Davis,Dev Patel,Nicole Kidman,Rooney Mara
+9469,469,2016,Mohenjo Daro,155 min,"Action, Adventure, Drama",5.7,10903,Ashutosh Gowariker,Hrithik Roshan,Pooja Hegde,Kabir Bedi
+8525,470,2016,Madly,106 min,"Drama, Romance",5.4,146,Bat for Lashes,Gael Garc�a Bernal,Anurag Kashyap,Sebasti�n Silva
+10813,471,2016,Phobia,112 min,"Drama, Mystery, Thriller",6.9,2791,Pawan Kripalani,Radhika Apte,Amrita Bagchi,Nivedita Bhattacharya
